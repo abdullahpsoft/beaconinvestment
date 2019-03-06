@@ -1,0 +1,40 @@
+[11-Jul-2018 05:46:09 UTC] PHP Fatal error:  Uncaught ReflectionException: Class log does not exist in /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php:736
+Stack trace:
+#0 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(736): ReflectionClass->__construct('log')
+#1 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(626): Illuminate\Container\Container->build('log', Array)
+#2 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(837): Illuminate\Foundation\Application->make('log')
+#4 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(800): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/zaintariq/public_html/capital/ve in /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 736
+[11-Jul-2018 05:46:10 UTC] PHP Fatal error:  Uncaught ReflectionException: Class log does not exist in /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php:736
+Stack trace:
+#0 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(736): ReflectionClass->__construct('log')
+#1 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(626): Illuminate\Container\Container->build('log', Array)
+#2 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(837): Illuminate\Foundation\Application->make('log')
+#4 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(800): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/zaintariq/public_html/capital/ve in /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 736
+[11-Jul-2018 05:46:20 UTC] PHP Fatal error:  Uncaught ReflectionException: Class log does not exist in /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php:736
+Stack trace:
+#0 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(736): ReflectionClass->__construct('log')
+#1 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(626): Illuminate\Container\Container->build('log', Array)
+#2 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(837): Illuminate\Foundation\Application->make('log')
+#4 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(800): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/zaintariq/public_html/capital/ve in /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 736
+[11-Jul-2018 05:46:31 UTC] PHP Fatal error:  Uncaught ReflectionException: Class log does not exist in /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php:736
+Stack trace:
+#0 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(736): ReflectionClass->__construct('log')
+#1 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(626): Illuminate\Container\Container->build('log', Array)
+#2 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(837): Illuminate\Foundation\Application->make('log')
+#4 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(800): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/zaintariq/public_html/capital/ve in /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 736
+[11-Jul-2018 05:47:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class log does not exist in /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php:736
+Stack trace:
+#0 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(736): ReflectionClass->__construct('log')
+#1 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(626): Illuminate\Container\Container->build('log', Array)
+#2 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(837): Illuminate\Foundation\Application->make('log')
+#4 /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php(800): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#5 /home/zaintariq/public_html/capital/ve in /home/zaintariq/public_html/capital/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 736
